@@ -22,3 +22,6 @@ Pull requester kabuş edilir. Büyük değişiklikler için, lütfen önce neyi 
 
 MIT
 
+## Resim
+
+![github](https://user-images.githubusercontent.com/103965866/167716822-450053f6-6901-4494-81e6-25d7c047f921.png)
